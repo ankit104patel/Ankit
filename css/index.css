@@ -1,0 +1,24 @@
+body{
+	width: auto;
+	height: auto;
+	margin: 2px;
+	padding: 3px;
+	background:#D6DBDF;
+
+}
+.bg{
+	width:auto;
+	height: auto;
+	margin: 150px;
+	filter: grayscale(90%);
+	position: relative;
+	
+}
+.font{
+	width: auto;
+	height: auto;
+	display: inline-block;
+			position: absolute;
+			bottom: 0px;
+			left: 50px;
+}
